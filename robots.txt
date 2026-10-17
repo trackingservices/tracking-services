@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trackingspk.vercel.app/sitemap.xml
